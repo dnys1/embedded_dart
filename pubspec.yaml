@@ -1,0 +1,11 @@
+name: embedded_dart
+description: A library for embedding alongside the Dart VM.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  amplify_lints: ^3.0.0
+  test: ^1.21.0
